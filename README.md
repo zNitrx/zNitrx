@@ -4,7 +4,7 @@
 ### About Me:
 - I'd like to learn Java
 - I'm learning Cibersecurity & Pentesting
-- OriginOS Fan [![OriginOS](OriginOS)](https://github.com/Mistium/Origin-OS)
+- OriginOS Fan [OriginOS](OriginOS)(https://github.com/Mistium/Origin-OS)
 
 <br>
 
