@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zNitrx-1&layout=compact&theme=dark)](https://github.com/zNitrx)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zNitrx&layout=compact&theme=dark)](https://github.com/zNitrx)
 <!--
 **zNitrx/zNitrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
