@@ -3,7 +3,7 @@
 
 ### About Me:
 - I'd like to learn Java
-- I'm learning Cibersecurity & Pentesting
+- I'm learning Cybersecurity & Pentesting
 - Origin-OS Fan
 - Github Repository:
 <a href="https://github.com/Mistium/Origin-OS">Github</a>
