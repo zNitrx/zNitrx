@@ -6,9 +6,9 @@
 - I'm learning Cibersecurity & Pentesting
 - Origin-OS Fan
 - Github Repository:
-<a href="https://github.com/Mistium/Origin-OS">Origin-OS</a>
+<a href="https://github.com/Mistium/Origin-OS">Github</a>
 - Origin-OS Website:
-<a href="https://origin.mistium.com">Origin-OS</a>
+<a href="https://origin.mistium.com">Website</a>
 
 <br>
 
