@@ -9,6 +9,9 @@
 <a href="https://github.com/Mistium/Origin-OS">Github</a>
 - Origin-OS Website:
 <a href="https://origin.mistium.com">Website</a>
+- My own Website:
+<a href="www.struzil.com">My own Website (In Develoption)</a>
+
 
 <br>
 
