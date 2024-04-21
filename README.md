@@ -6,7 +6,8 @@
   <img src="https://profile-counter.glitch.me/zNitrx/count.svg" />
 </p>
 <p align="center">
-  
+
+[![zNitrx Github Stats](https://github-readme-stats.vercel.app/api?username=Linux123123&show_icons=true&theme=dracula)](https://github.com/Linux123123)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zNitrx&layout=compact&theme=dark)](https://github.com/zNitrx)
 <!--
 **zNitrx/zNitrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
