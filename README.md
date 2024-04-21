@@ -1,16 +1,13 @@
 <h1 align="left">Hello, I'm zNitrx</h1>
 <h3 align="left">I'm a 13 year old programmer</h3>
 
-<p align="left">
-  <b>~ Profile Visits ~</b><br><br>
-  <img src="https://profile-counter.glitch.me/zNitrx/count.svg" />
-</p>
-<p align="left">
-
-[![zNitrx Github Stats](https://github-readme-stats.vercel.app/api?username=zNitrx&show_icons=true&theme=dracula)](https://github.com/zNitrx)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zNitrx&layout=compact&theme=dark)](https://github.com/zNitrx)
+### About Me:
+- I'd like to learn Java
+- I'm learning Cibersecurity & Pentesting
+- OriginOS Fan [![OriginOS Github](OriginOS GitHub)](https://github.com/Mistium/Origin-OS)
 
 <br>
+
 ***
 
 ### Languages and Tools:
@@ -25,6 +22,19 @@
 <br>
 <br>
 <br>
+
+***
+
+<p align="left">
+  <b>~ Profile Visits ~</b><br><br>
+  <img src="https://profile-counter.glitch.me/zNitrx/count.svg" />
+</p>
+<p align="left">
+
+[![zNitrx Github Stats](https://github-readme-stats.vercel.app/api?username=zNitrx&show_icons=true&theme=dracula)](https://github.com/zNitrx)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zNitrx&layout=compact&theme=dark)](https://github.com/zNitrx)
+
+
 <!--
 **zNitrx/zNitrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
