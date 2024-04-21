@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm zNitrx</h1>
+<h3 align="center">I'm a 13 year old programmer</h3>
 
+<p align="center">
+  <b>~ Profile Visits ~</b><br><br>
+  <img src="https://profile-counter.glitch.me/zNitrx/count.svg" />
+</p>
+<p align="center">
 <!--
 **zNitrx/zNitrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
