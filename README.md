@@ -4,13 +4,8 @@
 ### About Me:
 - I'd like to learn Java
 - I'm learning Cybersecurity & Pentesting
-- Origin-OS Fan
-- Github Repository:
-<a href="https://github.com/Mistium/Origin-OS">Github</a>
-- Origin-OS Website:
-<a href="https://origin.mistium.com">Website</a>
-- My own Website:
-<a href="www.struzil.com">My own Website (In Develoption)</a>
+- My own Website (NOT DONE):
+<a href="www.github.com/zNitrx">Website</a>
 
 
 <br>
@@ -20,7 +15,6 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
