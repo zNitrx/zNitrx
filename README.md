@@ -5,8 +5,7 @@
 - I'd like to learn Java
 - I'm learning Cybersecurity & Pentesting
 - My own Website (NOT DONE):
-<a href="www.github.com/zNitrx">Website</a>
-
+[Website](https://guns.lol/znitrx)
 
 <br>
 
