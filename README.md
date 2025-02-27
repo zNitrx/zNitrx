@@ -4,8 +4,8 @@
 ### About Me:
 - I'd like to learn Java
 - I'm learning Cybersecurity & Pentesting
-- My own Website (NOT DONE):
-[Website](https://guns.lol/znitrx)
+- My own Website:
+[Website](https://struzil.com)
 
 <br>
 
