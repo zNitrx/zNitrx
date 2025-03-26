@@ -1,9 +1,8 @@
 <h1 align="left">Hello, I'm zNitrx</h1>
-<h3 align="left">I'm a 13 year old programmer</h3>
+<h3 align="left">I'm a 14 year old programmer</h3>
 
 ### About Me:
-- I'd like to learn Java
-- I'm learning Cybersecurity & Pentesting
+- I'd love to learn Cybersecurity & Pentesting
 - My own Website:
 [Website](https://struzil.com)
 
